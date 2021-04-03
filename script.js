@@ -7,3 +7,5 @@ window.onclick = function(event) {
     modal.style.display = "none";
   }
 }
+
+console.log("Made using HTML5, JS, & CSS3.)
